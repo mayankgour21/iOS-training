@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Protocols.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DispatchSemaphore.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DispatchWorkItem.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DispatchGroup1.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Concurrency1.playground">
+   </FileRef>
+   <FileRef
+      location = "group:DispatchGroup.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Concurrency.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ErrorHandling.playground">
+   </FileRef>
+   <FileRef
+      location = "group:OptionalChaining.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Designated_Convenience_Initializers.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Class_Inheritance_and_Initialization.playground">
+   </FileRef>
+   <FileRef
+      location = "group:InitializerDelegationForValueType.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Inheritance.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Subscripts.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Methods.playground">
+   </FileRef>
+   <FileRef
+      location = "group:TypeProperty.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PropertyWrapper.playground">
+   </FileRef>
+   <FileRef
+      location = "group:PropertyObservor_PropertyWrapper.playground">
+   </FileRef>
+   <FileRef
+      location = "group:LazyStoredProperties.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Properties.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Class.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Struct.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enums.playground">
+   </FileRef>
+   <FileRef
+      location = "group:ControlFlow.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
